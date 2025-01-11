@@ -16,3 +16,7 @@ In this starter, I will:
 
 
 ![MLflow Process](./images/MLflowProcess.png)
+
+## Problem
+
+Given the characteristics of white wine, the software predicts its quality in range of 10.
