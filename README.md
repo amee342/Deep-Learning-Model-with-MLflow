@@ -1,8 +1,9 @@
 ## END-TO-END DEEP LEARNING CONSTRUCTION
 
-### Outline: Compare runs, choose a model, and deploy it to a REST API
+Given the characteristics of white wine, the software predicts its quality in range of 10.
 
-In this starter, I will:
+
+## Table of Contents
 
 - Run a hyperparameter sweep on a training script
 
@@ -14,9 +15,6 @@ In this starter, I will:
 
 - Build a container image suitable for deployment to a cloud platform
 
-
 ![MLflow Process](./images/MLflowProcess.png)
 
-## Problem
-
-Given the characteristics of white wine, the software predicts its quality in range of 10.
+ 
