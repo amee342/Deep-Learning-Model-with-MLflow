@@ -15,4 +15,4 @@ In this starter, I will:
 - Build a container image suitable for deployment to a cloud platform
 
 
-![Getting Started](./images/begium.png)
+![MLflow Process](./images/MLflowProcess.png)
