@@ -13,3 +13,6 @@ In this starter, I will:
 - Deploy the model to a REST API
 
 - Build a container image suitable for deployment to a cloud platform
+
+
+![Getting Started](./images/begium.png)
