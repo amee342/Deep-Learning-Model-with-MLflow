@@ -19,7 +19,7 @@ Given the characteristics of white wine, the software predicts its quality in ra
 
 ## 1. Hyperparameter Sweep
 
-The investigated hyperparameters are __learning rate__ and __momentum__. In the [notebook](starter.ipynb), the slection in hyperparameter values are uniform. 
+The investigated hyperparameters are __learning rate__ and __momentum__. In the [notebook](starter.ipynb), the selection in hyperparameter values are uniform. 
 
 The given loss function is __Root Mean Square Error__.
 
