@@ -26,8 +26,7 @@ The given loss function is __Root Mean Square Error__.
 ## 2. Result Comparison
 The result from MLlfow UI is shown below. 
 
-
-![Result](./images/result.png)
+![Result](./images/resultfinal.png)
 
 
 
