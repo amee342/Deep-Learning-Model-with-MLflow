@@ -28,6 +28,9 @@ The result from MLlfow UI is shown below.
 
 ![Result](./images/resultfinal.png)
 
+## 3. Model Selection
+The best model is one whose __lr__ is 0.0074 and __momentum__ is 0.92.
+
 
 
 
