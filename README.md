@@ -23,7 +23,7 @@ The investigated hyperparameters are __learning rate__ and __momentum__. In the 
 
 The given loss function is __Root Mean Square Error__.
 
-## 2. Compare the result 
+## 2. Result Comparison
 The result from MLlfow UI is shown below. 
 
 
