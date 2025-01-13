@@ -9,12 +9,18 @@ Given the characteristics of white wine, the software predicts its quality in ra
 
 - Compare the results of the runs in the MLflow UI
 
-- Choose the best run and register it as a model
+- Choose the best run and register it as a model (best-wine-quality model)
 
-- Deploy the model to a REST API
+- Deploy the model to a REST API (future work)
 
-- Build a container image suitable for deployment to a cloud platform
+- Build a container image suitable for deployment to a cloud platform (future work)
 
 ![MLflow Process](./images/MLflowProcess.png)
+
+1. Hyperparameter Sweep
+
+The investigated hyperparameters are learning rate and momentum. In the [notebook](starter.ipynb)  
+
+
 
  
