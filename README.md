@@ -17,9 +17,20 @@ Given the characteristics of white wine, the software predicts its quality in ra
 
 ![MLflow Process](./images/MLflowProcess.png)
 
-1. Hyperparameter Sweep
+## 1. Hyperparameter Sweep
 
-The investigated hyperparameters are learning rate and momentum. In the [notebook](starter.ipynb)  
+The investigated hyperparameters are __learning rate__ and __momentum__. In the [notebook](starter.ipynb), the slection in hyperparameter values are uniform. 
+
+The given loss function is __Root Mean Square Error__.
+
+## 2. Compare the result 
+The result from MLlfow UI is shown below. 
+
+
+![Result](./images/result.png)
+
+
+
 
 
 
